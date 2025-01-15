@@ -1,4 +1,4 @@
-const inputField = document.getElementById('display');
+const inputField = document.getElementById('display-bar');
 const buttons = document.getElementsByClassName('btn');
 const clearButton = document.getElementById('clear');
 const equalsButton = document.getElementById('equals');
