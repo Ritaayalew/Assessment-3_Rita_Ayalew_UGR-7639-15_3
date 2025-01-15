@@ -20,7 +20,7 @@ body {
     font-size: 24px;  
     text-align: right;  
     margin-bottom: 10px;  
-    border: 1px solid #9a9898;  
+    border: 1px solid #7a7979;  
     border-radius: 5px;  
     padding-right: 10px;  
 }  
@@ -34,7 +34,7 @@ body {
 .btn {  
     padding: 20px;  
     font-size: 18px;  
-    background-color:rgb(88, 88, 86);  
+    background-color:rgb(81, 81, 78);  
     color: white;  
     border: none;  
     border-radius: 5px;  
